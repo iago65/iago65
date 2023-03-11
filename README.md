@@ -10,6 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Personagem" src="https://cdn.discordapp.com/attachments/457545340606742541/1084203500524802089/IAGAO_UNDERGROUND_programmer_cartoon_room_computer_3d_happy_cea26a4e-dab3-42ad-bb4f-04655204f14e_1.gif">
 </div>
  
  <br>
