@@ -4,9 +4,9 @@
  
  <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/90Rqqm9L/IAGAO-UNDERGROUND-programmer-cartoon-room-computer-3d-happy-cea26a4e-dab3-42ad-bb4f-04655204f14e-1.gif)](https://postimg.cc/kRC50dfS)">
   
-  <p>Meu nome é Iago Rodrigues Pinheiro, tenho 17 anos e atualmente estou cursando o Ensino Médio. Desde os meus 7 anos, tenho um grande interesse em computadores e tecnologias, e sempre fui muito curioso em relação a como as coisas funcionam no mundo digital.
+  <p>Meu nome é Iago Rodrigues Pinheiro, tenho 18 anos. Desde os meus 7 anos, tenho um grande interesse em computadores e tecnologias, e sempre fui muito curioso em relação a como as coisas funcionam nesse mundo.
 Eu sempre fui muito autodidata e comecei a estudar programação por conta própria, tendo mais afinidade com o desenvolvimento front-end. Sinto que sou uma pessoa bastante criativa e analítica, e isso me ajuda a encontrar soluções inovadoras para problemas complexos.
-Meu objetivo é me tornar um desenvolvedor front-end de sucesso e estou disposto a trabalhar duro para alcançá-lo. Acredito que essa área é muito dinâmica e oferece diversas oportunidades para quem está disposto a aprender e se atualizar constantemente.
+Meu objetivo é me tornar um desenvolvedor full-stack de sucesso e estou disposto a trabalhar duro para alcançá-lo. Acredito que essa área é muito dinâmica e oferece diversas oportunidades para quem está disposto a aprender e se atualizar constantemente.
 Estou animado com as possibilidades que o futuro me reserva, e espero poder contribuir para o avanço da tecnologia de alguma forma. Sei que o caminho não é fácil, mas estou determinado a seguir em frente e conquistar meus objetivos.</p>
  
  <br>
