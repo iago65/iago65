@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Iago Rodrigues Pinheiro</h1>
 <h3 align="center">Estudante de Desenvolvimento De Software Multiplataforma, apaixonado por tecnologia e programação.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iago65&label=Profile%20views&color=0e75b6&style=flat" alt="iago65" /> </p>
-
 - 🔭 Atualmente estou trabalhando em **Acesso Game**
 
 - 🌱 Atualmente estou aprendendo **Figma, JavaScript, Python**
