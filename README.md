@@ -1,41 +1,20 @@
-## Olá!! Eu sou o Iago Pinheiro 😁
+<h1 align="center">Olá 👋, Eu sou Iago Rodrigues Pinheiro</h1>
+<h3 align="center">Estudante de Desenvolvimento De Software Multiplataforma, apaixonado por tecnologia e programação.</h3>
 
-## Sobre Mim
- 
- <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/90Rqqm9L/IAGAO-UNDERGROUND-programmer-cartoon-room-computer-3d-happy-cea26a4e-dab3-42ad-bb4f-04655204f14e-1.gif)](https://postimg.cc/kRC50dfS)">
-  
-  <p>Meu nome é Iago Rodrigues Pinheiro, tenho 18 anos. Desde os meus 7 anos, tenho um grande interesse em computadores e tecnologias, e sempre fui muito curioso em relação a como as coisas funcionam nesse mundo.
-Eu sempre fui muito autodidata e comecei a estudar programação por conta própria, tendo mais afinidade com o desenvolvimento front-end. Sinto que sou uma pessoa bastante criativa e analítica, e isso me ajuda a encontrar soluções inovadoras para problemas complexos.
-Meu objetivo é me tornar um desenvolvedor full-stack de sucesso e estou disposto a trabalhar duro para alcançá-lo. Acredito que essa área é muito dinâmica e oferece diversas oportunidades para quem está disposto a aprender e se atualizar constantemente.
-Estou animado com as possibilidades que o futuro me reserva, e espero poder contribuir para o avanço da tecnologia de alguma forma. Sei que o caminho não é fácil, mas estou determinado a seguir em frente e conquistar meus objetivos.</p>
- 
- <br>
- 
- ### Skills:
-</div>
-  <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iago65&label=Profile%20views&color=0e75b6&style=flat" alt="iago65" /> </p>
 
-<br>
+- 🔭 Atualmente estou trabalhando em **Acesso Game**
 
-  ### Minhas Redes!
-<div> 
-  <a href="https://instagram.com/iago_.pinheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:iagoo.pinheiro73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/iago-pinheiro-209557269/)](https://www.linkedin.com/in/iago-pinheiro-209557269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- <br>
- <br>
- <br>
- 
- <div>
-   <a href="https://github.com/iago65">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago65&layout=compact&langs_count=6&theme=dark"/>
- 
-  ![Snake animation](https://github.com/iago65/iago65/blob/output/github-contribution-grid-snake.svg)
+- 🌱 Atualmente estou aprendendo **Figma, JavaScript, Python**
 
-</div>
+- 📫 How to reach me **iagoo.pinheiro73@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iago pinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iago pinheiro" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iago65&show_icons=true&theme=dark&locale=en&layout=compact" alt="iago65" /></p>
