@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Figma, JavaScript, Python**
 
-- 📫 How to reach me **iagoo.pinheiro73@gmail.com**
+- 📫 Onde me encontrar **iagoo.pinheiro73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
