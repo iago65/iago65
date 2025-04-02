@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Iago Rodrigues Pinheiro</h1>
 <h3 align="center">Estudante de Desenvolvimento De Software Multiplataforma, apaixonado por tecnologia e programação.</h3>
 
-- 🔭 Atualmente estou trabalhando em **Acesso Game**
+- 🔭 Atualmente estou trabalhando em **Open Pages**
 
 - 🌱 Atualmente estou aprendendo **Figma, JavaScript, Python**
 
