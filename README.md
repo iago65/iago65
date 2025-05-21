@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Open Pages**
 
-- 🌱 Atualmente estou aprendendo **Figma, JavaScript, Python**
+- 🌱 Atualmente estou aprendendo **JavaScript, Estrutura de Dados, MySQL e NodeJS**
 
 - 📫 Onde me encontrar **iagoo.pinheiro73@gmail.com**
 
