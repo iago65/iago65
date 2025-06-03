@@ -39,6 +39,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+<div align="left">
+  <h3>🧠 Sobre Mim</h3>
+  <p>
+    Cursando o 2º semestre de Desenvolvimento de Software Multiplataforma na FATEC Franca, estou construindo uma base sólida em desenvolvimento web com foco em tecnologias modernas como HTML semântico, CSS, JavaScript e Node.js. <br><br>
+    Atualmente me aprofundando em JavaScript. Usuário de Linux no dia a dia, gosto de explorar ferramentas que otimizam o fluxo de trabalho e aumentam minha produtividade como desenvolvedor. Estou sempre buscando aprender mais, colaborar com colegas e evoluir como profissional na área de tecnologia.
+  </p>
+</div>
+
+
 ###
 
 <br clear="both">
