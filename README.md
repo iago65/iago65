@@ -42,7 +42,7 @@
 <div align="left">
   <h3>🧠 Sobre Mim</h3>
   <p>
-    Cursando o 2º semestre de Desenvolvimento de Software Multiplataforma na FATEC Franca, estou construindo uma base sólida em tecnologias como HTML, CSS, JavaScript, Banco de Dados, Lógica de Programação, Estrutura de Dados e Back-end com Node.js. <br><br>
+    Cursando o 3º semestre de Desenvolvimento de Software Multiplataforma na FATEC Franca, estou construindo uma base sólida em tecnologias como HTML, CSS, JavaScript, Banco de Dados, Lógica de Programação, Estrutura de Dados e Back-end com Node.js. <br><br>
     Atualmente, venho me aprofundando em JavaScript e explorando aos poucos o ecossistema do Node.js. Usuário de Linux no dia a dia, gosto de testar ferramentas que otimizam o fluxo de trabalho e aumentam minha produtividade. <br><br>
   </p>
 </div>
