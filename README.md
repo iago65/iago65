@@ -34,6 +34,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -42,11 +52,17 @@
 <div align="left">
   <h3>🧠 Sobre Mim</h3>
   <p>
-    Cursando o 3º semestre de Desenvolvimento de Software Multiplataforma na FATEC Franca, estou construindo uma base sólida em tecnologias como HTML, CSS, JavaScript, Banco de Dados, Lógica de Programação, Estrutura de Dados e Back-end com Node.js. <br><br>
-    Atualmente, venho me aprofundando em JavaScript e explorando aos poucos o ecossistema do Node.js. Usuário de Linux no dia a dia, gosto de testar ferramentas que otimizam o fluxo de trabalho e aumentam minha produtividade. <br><br>
+    🎓 Cursando o 3º semestre de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC Franca<br>
+    🚀 Atualmente focado em <strong>JavaScript</strong> através do curso da OneBitCode<br>
+    💻 Experiência acadêmica sólida: <strong>Algoritmos</strong>, <strong>Estrutura de Dados</strong>, <strong>POO</strong> e <strong>Banco de Dados</strong><br>
+    🐧 Usuário Linux no dia a dia<br>
+    
+    <strong>🎯 Projetos em Destaque:</strong><br>
+    🎮 <strong>TicTacToe.js</strong> - Jogo da velha moderno com tema dark e design responsivo<br>
+    🧮 <strong>Calc.js</strong> - Calculadora web com sistema de temas e animações<br>
+    📚 Mais projetos chegando conforme avanço no curso...
   </p>
 </div>
-
 
 ###
 
