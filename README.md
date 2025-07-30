@@ -49,15 +49,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+###
+
 <div align="left">
   <h3>🧠 Sobre Mim</h3>
   <p>
     🎓 Cursando o 3º semestre de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC Franca<br>
     🚀 Atualmente focado em <strong>JavaScript</strong> através do curso da OneBitCode<br>
     💻 Experiência acadêmica sólida: <strong>Algoritmos</strong>, <strong>Estrutura de Dados</strong>, <strong>POO</strong> e <strong>Banco de Dados</strong><br>
-    🐧 Usuário Linux no dia a dia<br>
-    
-    <strong>🎯 Projetos em Destaque:</strong><br>
+    🐧 Usuário Linux no dia a dia<br><br>
+  </p>
+  
+  <h3>🎯 Projetos em Destaque</h3>
+  <p>
     🎮 <strong>TicTacToe.js</strong> - Jogo da velha moderno com tema dark e design responsivo<br>
     🧮 <strong>Calc.js</strong> - Calculadora web com sistema de temas e animações<br>
     📚 Mais projetos chegando conforme avanço no curso...
